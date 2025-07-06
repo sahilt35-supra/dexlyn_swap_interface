@@ -23,6 +23,6 @@ test_admin_2 = "0xde18e0bb33eedc4e88f1823a64879074d84269004616be095d6cc0591df5ff
 local = "./dexlyn_swap_lp/"
 
 [dependencies.SupraFramework]
-git = 'https://github.com/Entropy-Foundation/aptos-core.git'
-subdir = 'aptos-move/framework/supra-framework'
-rev = 'dev'
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "aptosvm-v1.16_supra-v1.6.6"
+subdir = "aptos-move/framework/supra-framework"
